@@ -33,8 +33,16 @@ Repeat Step 3 using the PCA reduced data to make predictions for the clusters.
 ## Results
 
 #### 1. Elbow Diagrams without and with Principal Component Analysis
+![elbow_plot](https://github.com/KevinMosweu/CryptoClustering/assets/119974799/a2786aba-7881-4cb8-b50e-84d82cfef2ef)
+
+![elbow_pca_plot](https://github.com/KevinMosweu/CryptoClustering/assets/119974799/d3920403-3344-402e-b57e-f6a77a9c84b1)
+
 
 #### 2. Scatter Plots of clusters without and with Principal Component Analysis
+![cluster_plot](https://github.com/KevinMosweu/CryptoClustering/assets/119974799/cf4a5332-5ab2-4cc9-9063-49d9db11d080)
+
+![cluster_pca_plot](https://github.com/KevinMosweu/CryptoClustering/assets/119974799/059c2d69-26c9-45c0-94c6-23cbbaf4f4c6)
+
 
 ## Conclusion
 

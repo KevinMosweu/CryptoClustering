@@ -38,6 +38,6 @@ Repeat Step 3 using the PCA reduced data to make predictions for the clusters.
 
 ## Conclusion
 
-Using PCA column reduction does not seem to have resulted in any significant difference in the clustering of the data. The best number of clusters is 4 in both cases and the cluster scatter plot with the PCA predicted clusters does not display clearer clustering than the initial cluster scatter plot.
+The best number of clusters is 4 in both cases and the cluster scatter plot with the PCA predicted clusters has more overlap between clusters than the initial scatter plot. Using fewer features has made the clusters less clearly defined. Perhaps it would be better not to reduce the features.
 
 

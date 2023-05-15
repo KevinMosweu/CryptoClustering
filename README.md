@@ -39,9 +39,10 @@ Repeat Step 3 using the PCA reduced data to make predictions for the clusters.
 
 
 #### 2. Scatter Plots of clusters without and with Principal Component Analysis
-![cluster_plot](https://github.com/KevinMosweu/CryptoClustering/assets/119974799/cf4a5332-5ab2-4cc9-9063-49d9db11d080)
+![cluster_plot](https://github.com/KevinMosweu/CryptoClustering/assets/119974799/5503494f-6e5c-4d3e-8dd8-61b8f113da80)
 
-![cluster_pca_plot](https://github.com/KevinMosweu/CryptoClustering/assets/119974799/059c2d69-26c9-45c0-94c6-23cbbaf4f4c6)
+
+![cluster_pca_plot](https://github.com/KevinMosweu/CryptoClustering/assets/119974799/a3983435-d129-49d1-8f0d-9750420fba17)
 
 
 ## Conclusion

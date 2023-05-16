@@ -47,6 +47,6 @@ Repeat Step 3 using the PCA reduced data to make predictions for the clusters.
 
 ## Conclusion
 
-The best number of clusters is 4 in both cases and the cluster scatter plot with the PCA predicted clusters has more overlap between clusters than the initial scatter plot. Using fewer features has made the clusters less clearly defined. Perhaps it would be better not to reduce the features.
+The best number of clusters is 4 in both cases. The scatter plot without the PCA reduction has a single point cluster nested in another cluster while the scatter plot with the PCA predictions has no nested clusters, however this one includes 2 clusters with more overlap between them than in the initial scatter plot. Using fewer features by PCA has not made significant improvement in the clusters.
 
 
